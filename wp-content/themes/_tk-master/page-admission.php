@@ -41,7 +41,10 @@
 
         <div class="row my-5">
             <div class="col-md-6 mx-auto ">
-                <form action="" method="post" style="font-family: var(--secondary-font);">
+                <div style="font-family: var(--secondary-font);" class="content-para">
+                    <?php echo do_shortcode('[contact-form-7 id="ff89794" title="Admission"]'); ?>
+                </div>
+                <!-- <form action="" method="post" style="font-family: var(--secondary-font);">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="my-3">
@@ -75,7 +78,7 @@
                             <a href="" class="btn w-100 rounded-3 py-3 text-white text-center" style="background-color: var(--secondary-color);">Send Message</a>
                         </div>
                     </div>
-                </form>
+                </form> -->
             </div>
         </div>
     </div>

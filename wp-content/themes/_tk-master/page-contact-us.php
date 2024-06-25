@@ -22,12 +22,12 @@
                 <div style="font-family: var(--secondary-font);" class="content-para">
                     <?php echo do_shortcode('[contact-form-7 id="ed64f7c" title="Contact form 1"]'); ?>
                 </div>
-                <form action="" method="post" style="font-family: var(--secondary-font);" class="content-para">
+                <!-- <form action="" method="post" style="font-family: var(--secondary-font);" class="content-para">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="my-3">
-                                <label for="" class="form-label">First
-                                    Name</label>
+                                <label for="" class="form-label">
+                                  First  Name</label>
                                 <input type="text" class="form-control border-0 py-3 my-2" name="name" placeholder="First Name">
                             </div>
                             <div class="my-3">
@@ -60,7 +60,7 @@
                             <a href="" class="w-100 btn rounded-3 py-4 text-white text-center">Make An Request</a>
                         </div>
                     </div>
-                </form>
+                </form> -->
             </div>
 
             <?php
